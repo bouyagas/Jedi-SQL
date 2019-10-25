@@ -14,6 +14,7 @@ psql -d jedi_db -f jedis.sql in the terminal
 Connect to database and check if seeded correctly
 psql -d jedi_db in terminal
 SELECT * FROM jedis; in psql shell
+
 2. Exercise
 SELECT all Jedis with red lightsabers
 SELECT all Jedis who have been tempted by the darkside
